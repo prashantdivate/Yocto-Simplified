@@ -1,2 +1,3 @@
 # Yocto-Simplified
-Yocto Developer NOTES
+
+NOTES created by yocto developer and Yocto Framework Demystified
